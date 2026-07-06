@@ -1,0 +1,22 @@
+# Core — Python 3.12 recommended (numba/vectorbt lag newer CPython)
+pandas>=2.2
+numpy>=1.26
+python-dotenv>=1.0
+requests>=2.31
+
+# Backtesting
+vectorbt>=0.26
+
+# Exchange APIs
+python-binance>=1.0.19
+
+# Scheduling
+APScheduler>=3.10
+
+# Dashboard
+streamlit>=1.35
+plotly>=5.22
+
+# ML (month 8+, safe to install later)
+# scikit-learn>=1.5
+# mlflow>=2.14
