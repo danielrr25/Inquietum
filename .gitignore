@@ -1,0 +1,19 @@
+# Secrets — keep real keys out of git (.env.example is the template)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Tooling / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local data & logs
+*.log
